@@ -1,4 +1,4 @@
-#import "ALLabel.h"
+#import "YXLabel.h"
 
 @implementation YXLabel
 
