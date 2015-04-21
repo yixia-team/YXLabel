@@ -1,5 +1,6 @@
 #import <UIKit/UIKit.h>
+#import "TTTAttributedLabel.h"
 
-@interface YXLabel : UILabel
+@interface YXLabel : TTTAttributedLabel
 
 @end
